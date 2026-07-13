@@ -227,3 +227,111 @@ AI-powered platform that converts long YouTube videos into engaging short clips.
 ### 💡 *Turning Ideas into Intelligent AI Solutions.*
 
 </div>
+
+<!-- ====================================================== -->
+<!--                  GITHUB ANALYTICS                      -->
+<!-- ====================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divek31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divek31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Divek31&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divek31&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Divek31&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00F7FF/Divek31" alt="Contribution Calendar"/>
+
+</div>
+
+---
+
+# ☕ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready AI Agents
+- 🏆 Win national-level hackathons
+- 🤝 Contribute to Open Source
+- 📚 Master LLMs & RAG
+- ⚡ Learn Kubernetes & Cloud Deployment
+- 💼 Land an AI Engineer role
+- 🌍 Build products used by thousands of users
+
+---
+
+# 💡 Favorite Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Thanks for stopping by!
+
+If you like my work, feel free to ⭐ my repositories and connect with me.
+
+</div>
