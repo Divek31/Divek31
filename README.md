@@ -31,3 +31,102 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,fastapi,flask,tensorflow,pytorch,mongodb,mysql,docker,git,github,linux,vscode" />
 
 </div>
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Divek31/AI-Study-Buddy">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Divek31&repo=AI-Study-Buddy&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Divek31/AI-Cybersecurity-Assistant">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Divek31&repo=AI-Cybersecurity-Assistant&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🌍 **TripBuddy** | AI-powered Smart Tourism & Travel Safety Platform |
+| 🎬 **ClipForge AI** | AI platform for converting long videos into viral shorts *(In Development)* |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Divek31&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divek31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Divek31&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Divek31/Divek31/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/divek-kumar-28a44a2b9">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
+
+<a href="https://github.com/Divek31">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+</a>
+
+<a href="mailto:kumardivek30@gmail.com">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
+</a>
+
+<a href="https://divek31.github.io/Portfolio/">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="48"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Currently Building
+
+🤖 AI Study Buddy • 🌍 TripBuddy • 🎬 ClipForge AI • 🔐 AI Cybersecurity Assistant
+
+<br>
+
+### 💡 Motto
+
+> **"Learn. Build. Share. Repeat."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+
+</div>
